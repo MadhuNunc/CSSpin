@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'CSSpin'
-s.version          = '0.3.0'
+s.version          = '0.4.0'
 s.summary          = 'CSSpin framework is used to take 360 Videos.'
 
 # This description is used to generate tags and improve search results.
@@ -35,7 +35,7 @@ s.ios.deployment_target = '10.0'
 
 #s.source_files = 'CSSpin/Classes/*.{h}'
 
-s.vendored_frameworks = "CSSpin-0.3.0/CSSpin.framework"
+s.vendored_frameworks = "CSSpin-0.4.0/CSSpin.framework"
 
 #s.vendored_frameworks = 'CSSpin.framework'
 
