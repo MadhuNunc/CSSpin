@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'CSSpin'
-s.version          = '0.1.0'
+s.version          = '0.2.0'
 s.summary          = 'CSSpin framework is used to take 360 Videos.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ s.homepage         = 'https://github.com/MadhuNunc/CSSpin.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'MadhuNunc' => 'madhusudhan.gadiraju@nuncsystems.com' }
 
-s.source = { :http => "https://github.com/MadhuNunc/CSSpin/archive/0.1.0.zip" }
+s.source = { :http => "https://github.com/MadhuNunc/CSSpin/archive/0.2.0.zip" }
 
 
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
@@ -35,9 +35,9 @@ s.ios.deployment_target = '10.0'
 
 #s.source_files = 'CSSpin/Classes/*.{h}'
 
-s.vendored_frameworks = "CSSpin-0.1.0/Spin360.framework"
+s.vendored_frameworks = "CSSpin-0.2.0/CSSpin.framework"
 
-#s.vendored_frameworks = 'Spin360Demo.framework'
+#s.vendored_frameworks = 'CSSpin.framework'
 
 #s.source_files = 'Spin360Demo/Classes/*.{h,m}'
 
