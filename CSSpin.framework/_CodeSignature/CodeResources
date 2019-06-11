@@ -4,25 +4,32 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/CSSpin.h</key>
+		<data>
+		gz7BifXRCAt5+aIv8Fu2MvYOxb8=
+		</data>
 		<key>Headers/CaptureViewController.h</key>
 		<data>
 		8lF3OSrAACBJR7KA8hJC92VOvG4=
 		</data>
-		<key>Headers/Spin360.h</key>
-		<data>
-		hGTaualHq8UETFaRsY2+F07GBRw=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		20MFLvsAIYwt04FRIVSEK1Q0b/U=
+		kT8R5a+BV2AWO28l81AQFHyjl+o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7WmQ63swwl0lF6U2QOTxbzi3mLg=
+		Q+/4kr9VoRxevk4uMSCLtHgSEOA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/CSSpin.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			46oTz93jdqeHtHyH6Tv04iDTec6uMXt0tQlPtzhnEcw=
+			</data>
+		</dict>
 		<key>Headers/CaptureViewController.h</key>
 		<dict>
 			<key>hash2</key>
@@ -30,18 +37,11 @@
 			nZkDIRU+bfBJfTcRxvOqYuAjIwyBRR9/t+s2hDYmLnE=
 			</data>
 		</dict>
-		<key>Headers/Spin360.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1D/KMaNZ11lZ5wCOWv2prdZbvdcFsvH360TN1+9WAvY=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			spx11Iww/w5PT+ovPwV8LKIYYIrImHKkLhS15V9ljmE=
+			b5LoWCyGcXhLPldaKXFrKtL9KAxKdMjTaySqOCZcxA4=
 			</data>
 		</dict>
 	</dict>
