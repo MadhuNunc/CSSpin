@@ -25,8 +25,8 @@ typedef enum captureStateTypes
 @protocol CaptureViewControllerDelegate <NSObject>
 
 @optional
--(void)cancelButtonAction:(NSString*)message;
--(void)stopButtonAction:(NSString*)message;
+-(void)spinCancelAction:(NSString*)message;
+-(void)spinCompleteAction:(NSString*)message;
 @end
 
 @interface CaptureViewController : UIViewController {
@@ -36,7 +36,7 @@ typedef enum captureStateTypes
 @property (nonatomic, weak) id<CaptureViewControllerDelegate> CaptureViewDelegate;
 @property (assign, nonatomic) NSInteger captureState;
 @property (strong, nonatomic) UILabel *recorderTimeLbl;
-@property(nonatomic,strong)NSTimer *updateTimer;
+@property(nonatomic,strong) NSTimer *updateTimer;
 
 @end
 
