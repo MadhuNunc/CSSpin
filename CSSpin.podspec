@@ -24,7 +24,7 @@ s.ios.deployment_target = '10.0'
 
 #s.source_files = 'CSSpin/Classes/*.{h}'
 
-s.vendored_frameworks = 'CSSpin-0.9.0/CSSpin.framework'
+s.vendored_frameworks = 'CSSpin.framework'
 
 
 end
