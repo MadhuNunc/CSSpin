@@ -32,13 +32,17 @@
 		<data>
 		QltIH6j0tzSpThNcNyRy7I6eFYk=
 		</data>
+		<key>Headers/CSCaptureViewController.h</key>
+		<data>
+		8D7yluqwKtCgKvrU5/uFJVpfpW4=
+		</data>
+		<key>Headers/CSModuleSync.h</key>
+		<data>
+		qlqxmm+UdzT7+gk2CsapxArLDnY=
+		</data>
 		<key>Headers/CSSpin.h</key>
 		<data>
-		Kfm8qBcdk3vkUE53zNVwq6mM/48=
-		</data>
-		<key>Headers/CaptureViewController.h</key>
-		<data>
-		xAPIK97p6WZq9Vk5tfUDxyQ4s18=
+		AGpbc1TtbYbHLBMd+FGFx22qMeI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -172,18 +176,25 @@
 			aY8iQTZchvzlMN5rUnEz6KjyEQMQIUAnPQKZVmV2pEg=
 			</data>
 		</dict>
+		<key>Headers/CSCaptureViewController.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CNoMyd+78XGrz9D1iGYFooHSsBS1kvNbcwxM4Yz4UTw=
+			</data>
+		</dict>
+		<key>Headers/CSModuleSync.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/W25qrYG9mw/A5n9eL6AWKvx5zzvLca9HmduN62X7G4=
+			</data>
+		</dict>
 		<key>Headers/CSSpin.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kgzqja20V/3g5Xm/ro9BcGyAvMlmmQjz6JNRCsulcAU=
-			</data>
-		</dict>
-		<key>Headers/CaptureViewController.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HpFyJsOoC4ORdaMHleCrq/hp5CrsY7xLuwJE0bFb6LU=
+			PpB0XnO8PBd8DelQ3DgdBbZqLFa6HmHpff7a2jJSKT8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "CaptureViewController.h"
+#import "CSModuleSync.h"
 
 //! Project version number for CSSpin.
 FOUNDATION_EXPORT double CSSpinVersionNumber;
