@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "CaptureViewController.h"
+#import "CSCaptureViewController.h"
 #import "CSModuleSync.h"
 
 //! Project version number for CSSpin.
