@@ -1,0 +1,6 @@
+framework module Pods_CSSpin {
+  umbrella header "Pods-CSSpin-umbrella.h"
+
+  export *
+  module * { export * }
+}
