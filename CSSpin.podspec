@@ -26,6 +26,6 @@ s.ios.deployment_target = '10.0'
 
 #s.vendored_frameworks = 'CSSpin-1.1.3/CSSpin.framework'
 s.vendored_frameworks = 'CSSpin.framework'
-s.dependency 'CocoaLumberjack', :git => 'https://github.com/MadhuNunc/CSSpin/archive/1.1.3.zip'
+s.dependency 'CocoaLumberjack', :git => 'https://github.com/MadhuNunc/CSSpin.git'
 
 end
